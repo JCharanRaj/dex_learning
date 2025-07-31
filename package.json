@@ -1,0 +1,15 @@
+{
+  "name": "dex_learning",
+  "version": "1.0.0",
+  "description": "Ethereum DEX sniffer using ethers.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["ethereum", "dex", "uniswap", "sniffer", "ethers.js"],
+  "author": "JCharanRaj",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.0.0"
+  }
+}
